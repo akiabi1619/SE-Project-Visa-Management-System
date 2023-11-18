@@ -1,0 +1,52 @@
+# Ignore system-specific directories
+Application\ Data/
+Cookies/
+Local\ Settings/
+My\ Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start\ Menu/
+Templates/
+
+# Ignore user-specific directories
+.VirtualBox/
+.arduinoIDE/
+.bash_history
+.condarc
+.config/
+.continuum/
+.gitconfig
+.gitconfig.swp
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.matplotlib/
+.packettracer
+.ssh/
+.vscode/
+3D\ Objects/
+Agent
+Contacts/
+Downloads/
+Favorites/
+Library-Managament-System/
+Links/
+Music/
+NTUSER.DAT
+NTUSER.DAT*
+OneDrive/
+PycharmProjects/
+SE-Project-Visa-Management-System/
+Saved\ Games/
+Searches/
+Untitled*.ipynb
+Videos/
+VirtualBox\ VMs/
+a.exe
+anaconda3/
+main.c
+ntuser.dat.LOG*
+ntuser.ini
+scoop/
